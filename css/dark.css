@@ -360,7 +360,7 @@ body.DarkMode #waline textarea {
 /* 黑夜模式动画 */
 .Cuteen_DarkSky,
 .Cuteen_DarkSky:before {
-  content: "";
+  
   position: fixed;
   left: 0;
   right: 0;
@@ -626,7 +626,7 @@ body.DarkMode #stars {
 }
 
 body.DarkMode #stars:after {
-  content: " ";
+  
   position: absolute;
   top: 2000px;
   width: 1px;
@@ -869,7 +869,7 @@ body.DarkMode #stars2 {
 }
 
 body.DarkMode #stars2:after {
-  content: " ";
+  
   position: absolute;
   top: 2000px;
   width: 2px;
@@ -962,7 +962,7 @@ body.DarkMode #stars3 {
 }
 
 body.DarkMode #stars3:after {
-  content: " ";
+  
   position: absolute;
   top: 2000px;
   width: 3px;
